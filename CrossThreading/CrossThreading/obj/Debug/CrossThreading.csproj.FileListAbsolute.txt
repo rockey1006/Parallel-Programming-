@@ -1,0 +1,9 @@
+C:\Users\wruoq\source\repos\CrossThreading\CrossThreading\bin\Debug\CrossThreading.exe.config
+C:\Users\wruoq\source\repos\CrossThreading\CrossThreading\bin\Debug\CrossThreading.exe
+C:\Users\wruoq\source\repos\CrossThreading\CrossThreading\bin\Debug\CrossThreading.pdb
+C:\Users\wruoq\source\repos\CrossThreading\CrossThreading\obj\Debug\CrossThreading.Form1.resources
+C:\Users\wruoq\source\repos\CrossThreading\CrossThreading\obj\Debug\CrossThreading.Properties.Resources.resources
+C:\Users\wruoq\source\repos\CrossThreading\CrossThreading\obj\Debug\CrossThreading.csproj.GenerateResource.Cache
+C:\Users\wruoq\source\repos\CrossThreading\CrossThreading\obj\Debug\CrossThreading.csproj.CoreCompileInputs.cache
+C:\Users\wruoq\source\repos\CrossThreading\CrossThreading\obj\Debug\CrossThreading.exe
+C:\Users\wruoq\source\repos\CrossThreading\CrossThreading\obj\Debug\CrossThreading.pdb

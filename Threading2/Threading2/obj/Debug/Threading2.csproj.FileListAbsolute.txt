@@ -1,0 +1,10 @@
+C:\Users\wruoq\source\repos\Threading2\Threading2\bin\Debug\Threading2.exe.config
+C:\Users\wruoq\source\repos\Threading2\Threading2\bin\Debug\Threading2.exe
+C:\Users\wruoq\source\repos\Threading2\Threading2\bin\Debug\Threading2.pdb
+C:\Users\wruoq\source\repos\Threading2\Threading2\obj\Debug\Threading2.csprojResolveAssemblyReference.cache
+C:\Users\wruoq\source\repos\Threading2\Threading2\obj\Debug\Threading2.Form1.resources
+C:\Users\wruoq\source\repos\Threading2\Threading2\obj\Debug\Threading2.Properties.Resources.resources
+C:\Users\wruoq\source\repos\Threading2\Threading2\obj\Debug\Threading2.csproj.GenerateResource.Cache
+C:\Users\wruoq\source\repos\Threading2\Threading2\obj\Debug\Threading2.csproj.CoreCompileInputs.cache
+C:\Users\wruoq\source\repos\Threading2\Threading2\obj\Debug\Threading2.exe
+C:\Users\wruoq\source\repos\Threading2\Threading2\obj\Debug\Threading2.pdb

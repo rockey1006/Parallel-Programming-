@@ -1,0 +1,7 @@
+C:\Users\wruoq\source\repos\MultiThreading\MultiThreading\obj\Debug\MultiThreading.csprojResolveAssemblyReference.cache
+C:\Users\wruoq\source\repos\MultiThreading\MultiThreading\obj\Debug\MultiThreading.csproj.CoreCompileInputs.cache
+C:\Users\wruoq\source\repos\MultiThreading\MultiThreading\bin\Debug\MultiThreading.exe.config
+C:\Users\wruoq\source\repos\MultiThreading\MultiThreading\bin\Debug\MultiThreading.exe
+C:\Users\wruoq\source\repos\MultiThreading\MultiThreading\bin\Debug\MultiThreading.pdb
+C:\Users\wruoq\source\repos\MultiThreading\MultiThreading\obj\Debug\MultiThreading.exe
+C:\Users\wruoq\source\repos\MultiThreading\MultiThreading\obj\Debug\MultiThreading.pdb
