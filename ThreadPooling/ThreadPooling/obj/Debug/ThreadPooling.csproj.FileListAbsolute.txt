@@ -1,0 +1,10 @@
+C:\Users\wruoq\source\repos\New folder\ThreadPooling\ThreadPooling\obj\Debug\ThreadPooling.csprojResolveAssemblyReference.cache
+C:\Users\wruoq\source\repos\New folder\ThreadPooling\ThreadPooling\obj\Debug\ThreadPooling.Form1.resources
+C:\Users\wruoq\source\repos\New folder\ThreadPooling\ThreadPooling\obj\Debug\ThreadPooling.Properties.Resources.resources
+C:\Users\wruoq\source\repos\New folder\ThreadPooling\ThreadPooling\obj\Debug\ThreadPooling.csproj.GenerateResource.Cache
+C:\Users\wruoq\source\repos\New folder\ThreadPooling\ThreadPooling\obj\Debug\ThreadPooling.csproj.CoreCompileInputs.cache
+C:\Users\wruoq\source\repos\New folder\ThreadPooling\ThreadPooling\bin\Debug\ThreadPooling.exe.config
+C:\Users\wruoq\source\repos\New folder\ThreadPooling\ThreadPooling\bin\Debug\ThreadPooling.exe
+C:\Users\wruoq\source\repos\New folder\ThreadPooling\ThreadPooling\bin\Debug\ThreadPooling.pdb
+C:\Users\wruoq\source\repos\New folder\ThreadPooling\ThreadPooling\obj\Debug\ThreadPooling.exe
+C:\Users\wruoq\source\repos\New folder\ThreadPooling\ThreadPooling\obj\Debug\ThreadPooling.pdb

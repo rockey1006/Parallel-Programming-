@@ -1,0 +1,10 @@
+C:\Users\wruoq\source\repos\New folder\SemaphoreTest\SemaphoreTest\obj\Debug\SemaphoreTest.csprojResolveAssemblyReference.cache
+C:\Users\wruoq\source\repos\New folder\SemaphoreTest\SemaphoreTest\obj\Debug\SemaphoreTest.Form1.resources
+C:\Users\wruoq\source\repos\New folder\SemaphoreTest\SemaphoreTest\obj\Debug\SemaphoreTest.Properties.Resources.resources
+C:\Users\wruoq\source\repos\New folder\SemaphoreTest\SemaphoreTest\obj\Debug\SemaphoreTest.csproj.GenerateResource.Cache
+C:\Users\wruoq\source\repos\New folder\SemaphoreTest\SemaphoreTest\obj\Debug\SemaphoreTest.csproj.CoreCompileInputs.cache
+C:\Users\wruoq\source\repos\New folder\SemaphoreTest\SemaphoreTest\bin\Debug\SemaphoreTest.exe.config
+C:\Users\wruoq\source\repos\New folder\SemaphoreTest\SemaphoreTest\bin\Debug\SemaphoreTest.exe
+C:\Users\wruoq\source\repos\New folder\SemaphoreTest\SemaphoreTest\bin\Debug\SemaphoreTest.pdb
+C:\Users\wruoq\source\repos\New folder\SemaphoreTest\SemaphoreTest\obj\Debug\SemaphoreTest.exe
+C:\Users\wruoq\source\repos\New folder\SemaphoreTest\SemaphoreTest\obj\Debug\SemaphoreTest.pdb
