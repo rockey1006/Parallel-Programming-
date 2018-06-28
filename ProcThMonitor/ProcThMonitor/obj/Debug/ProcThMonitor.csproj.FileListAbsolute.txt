@@ -1,0 +1,10 @@
+C:\Users\wruoq\source\repos\New folder\ProcThMonitor\ProcThMonitor\obj\Debug\ProcThMonitor.csprojResolveAssemblyReference.cache
+C:\Users\wruoq\source\repos\New folder\ProcThMonitor\ProcThMonitor\obj\Debug\ProcThMonitor.Form1.resources
+C:\Users\wruoq\source\repos\New folder\ProcThMonitor\ProcThMonitor\obj\Debug\ProcThMonitor.Properties.Resources.resources
+C:\Users\wruoq\source\repos\New folder\ProcThMonitor\ProcThMonitor\obj\Debug\ProcThMonitor.csproj.GenerateResource.Cache
+C:\Users\wruoq\source\repos\New folder\ProcThMonitor\ProcThMonitor\obj\Debug\ProcThMonitor.csproj.CoreCompileInputs.cache
+C:\Users\wruoq\source\repos\New folder\ProcThMonitor\ProcThMonitor\bin\Debug\ProcThMonitor.exe.config
+C:\Users\wruoq\source\repos\New folder\ProcThMonitor\ProcThMonitor\bin\Debug\ProcThMonitor.exe
+C:\Users\wruoq\source\repos\New folder\ProcThMonitor\ProcThMonitor\bin\Debug\ProcThMonitor.pdb
+C:\Users\wruoq\source\repos\New folder\ProcThMonitor\ProcThMonitor\obj\Debug\ProcThMonitor.exe
+C:\Users\wruoq\source\repos\New folder\ProcThMonitor\ProcThMonitor\obj\Debug\ProcThMonitor.pdb

@@ -1,0 +1,9 @@
+C:\Users\wruoq\source\repos\New folder\MutexTest\MutexTest\obj\Debug\MutexTest.Form1.resources
+C:\Users\wruoq\source\repos\New folder\MutexTest\MutexTest\obj\Debug\MutexTest.Properties.Resources.resources
+C:\Users\wruoq\source\repos\New folder\MutexTest\MutexTest\obj\Debug\MutexTest.csproj.GenerateResource.Cache
+C:\Users\wruoq\source\repos\New folder\MutexTest\MutexTest\obj\Debug\MutexTest.csproj.CoreCompileInputs.cache
+C:\Users\wruoq\source\repos\New folder\MutexTest\MutexTest\bin\Debug\MutexTest.exe.config
+C:\Users\wruoq\source\repos\New folder\MutexTest\MutexTest\bin\Debug\MutexTest.exe
+C:\Users\wruoq\source\repos\New folder\MutexTest\MutexTest\bin\Debug\MutexTest.pdb
+C:\Users\wruoq\source\repos\New folder\MutexTest\MutexTest\obj\Debug\MutexTest.exe
+C:\Users\wruoq\source\repos\New folder\MutexTest\MutexTest\obj\Debug\MutexTest.pdb

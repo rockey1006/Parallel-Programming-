@@ -1,0 +1,10 @@
+C:\Users\wruoq\source\repos\New folder\ProducerConsumer\ProducerConsumer\bin\Debug\ProducerConsumer.exe.config
+C:\Users\wruoq\source\repos\New folder\ProducerConsumer\ProducerConsumer\bin\Debug\ProducerConsumer.exe
+C:\Users\wruoq\source\repos\New folder\ProducerConsumer\ProducerConsumer\bin\Debug\ProducerConsumer.pdb
+C:\Users\wruoq\source\repos\New folder\ProducerConsumer\ProducerConsumer\obj\Debug\ProducerConsumer.csprojResolveAssemblyReference.cache
+C:\Users\wruoq\source\repos\New folder\ProducerConsumer\ProducerConsumer\obj\Debug\ProducerConsumer.Form1.resources
+C:\Users\wruoq\source\repos\New folder\ProducerConsumer\ProducerConsumer\obj\Debug\ProducerConsumer.Properties.Resources.resources
+C:\Users\wruoq\source\repos\New folder\ProducerConsumer\ProducerConsumer\obj\Debug\ProducerConsumer.csproj.GenerateResource.Cache
+C:\Users\wruoq\source\repos\New folder\ProducerConsumer\ProducerConsumer\obj\Debug\ProducerConsumer.csproj.CoreCompileInputs.cache
+C:\Users\wruoq\source\repos\New folder\ProducerConsumer\ProducerConsumer\obj\Debug\ProducerConsumer.exe
+C:\Users\wruoq\source\repos\New folder\ProducerConsumer\ProducerConsumer\obj\Debug\ProducerConsumer.pdb
