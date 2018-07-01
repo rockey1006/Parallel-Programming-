@@ -1,0 +1,22 @@
+C:\Users\Administrator\Desktop\TaskDemo\TaskDemo\bin\Debug\TaskDemo.exe.config
+C:\Users\Administrator\Desktop\TaskDemo\TaskDemo\bin\Debug\TaskDemo.exe
+C:\Users\Administrator\Desktop\TaskDemo\TaskDemo\bin\Debug\TaskDemo.pdb
+C:\Users\Administrator\Desktop\TaskDemo\TaskDemo\obj\Debug\TaskDemo.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\TaskDemo\TaskDemo\obj\Debug\TaskDemo.Form1.resources
+C:\Users\Administrator\Desktop\TaskDemo\TaskDemo\obj\Debug\TaskDemo.Properties.Resources.resources
+C:\Users\Administrator\Desktop\TaskDemo\TaskDemo\obj\Debug\TaskDemo.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\TaskDemo\TaskDemo\obj\Debug\TaskDemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\TaskDemo\TaskDemo\obj\Debug\TaskDemo.exe
+C:\Users\Administrator\Desktop\TaskDemo\TaskDemo\obj\Debug\TaskDemo.pdb
+C:\Users\Administrator\Desktop\TaskDemo\TaskDemo\obj\Debug\TaskDemo.Form2.resources
+C:\Users\wruoq\Documents\Tencent Files\124466542\FileRecv\TaskDemo\TaskDemo\bin\Debug\TaskDemo.exe.config
+C:\Users\wruoq\Documents\Tencent Files\124466542\FileRecv\TaskDemo\TaskDemo\bin\Debug\TaskDemo.exe
+C:\Users\wruoq\Documents\Tencent Files\124466542\FileRecv\TaskDemo\TaskDemo\bin\Debug\TaskDemo.pdb
+C:\Users\wruoq\Documents\Tencent Files\124466542\FileRecv\TaskDemo\TaskDemo\obj\Debug\TaskDemo.csprojResolveAssemblyReference.cache
+C:\Users\wruoq\Documents\Tencent Files\124466542\FileRecv\TaskDemo\TaskDemo\obj\Debug\TaskDemo.Form1.resources
+C:\Users\wruoq\Documents\Tencent Files\124466542\FileRecv\TaskDemo\TaskDemo\obj\Debug\TaskDemo.Form2.resources
+C:\Users\wruoq\Documents\Tencent Files\124466542\FileRecv\TaskDemo\TaskDemo\obj\Debug\TaskDemo.Properties.Resources.resources
+C:\Users\wruoq\Documents\Tencent Files\124466542\FileRecv\TaskDemo\TaskDemo\obj\Debug\TaskDemo.csproj.GenerateResource.Cache
+C:\Users\wruoq\Documents\Tencent Files\124466542\FileRecv\TaskDemo\TaskDemo\obj\Debug\TaskDemo.csproj.CoreCompileInputs.cache
+C:\Users\wruoq\Documents\Tencent Files\124466542\FileRecv\TaskDemo\TaskDemo\obj\Debug\TaskDemo.exe
+C:\Users\wruoq\Documents\Tencent Files\124466542\FileRecv\TaskDemo\TaskDemo\obj\Debug\TaskDemo.pdb
